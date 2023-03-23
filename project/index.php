@@ -20,8 +20,8 @@
         <!-- <body style="background-color:#088F8F;"> -->
         <!-- <body style="background-color:Pink;"> -->
         <!-- <body style="background-color:Green;"> -->
-        <!-- <body style="background-color:#FFC0CB;"> -->
-        <body style="background-color:#A020F0;">
+        <body style="background-color:#FFC0CB;">
+        <!--<body style="background-color:#A020F0;"> -->
 
          <div>
          <h1> www.demo-test.live</h1>
@@ -32,7 +32,7 @@
          <!-- <h1> PROD - Red v1.13 </h1> -->
          <!-- <h1> PROD - Blue v1.14 </h1> -->
          <h1> (Production under Observed) </h1>
-         <h1>Unknown Version v3.0</h1>
+         <h1>Version v3.0</h1>
         </div>
     </body>
 </html>
