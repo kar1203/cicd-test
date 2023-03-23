@@ -32,7 +32,7 @@
          <!-- <h1> PROD - Red v1.13 </h1> -->
          <!-- <h1> PROD - Blue v1.14 </h1> -->
          <h1> (Production under Observed) </h1>
-         <h1>Pink Version v2.0</h1>
+         <h1>Pink Version v1.0</h1>
         </div>
     </body>
 </html>
